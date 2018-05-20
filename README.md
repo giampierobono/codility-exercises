@@ -1,2 +1,2 @@
 # codility-exercies
-My codility exercies solutions
+My codility exercises solutions
